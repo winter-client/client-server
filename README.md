@@ -39,8 +39,8 @@ This is a simple chat application developed using socket programming in Python. 
     python client.py
     ```
 
-5. Enter the server IP address, port number, and username when prompted. 
-# IP address: localhost, port: 8888
+5. Enter the server IP address (localhost), port number (8888), and username when prompted. 
+
 
 6. Start chatting!
 
